@@ -14,3 +14,17 @@
 
 
 # BONUS: Print the area in the following syntax: "If the length of a rectangle is 5, and width is 3 then the area is: 15". Keep in mind that you should replace the numbers with their respective variables. 
+name = "saleh"
+print(name)
+x=4
+y=4
+print (y+x)
+t=10
+v=2
+print (t/v)
+print (y*t)
+
+length=20
+width=10
+area=(length*width)
+print(f"The result is {area}")
